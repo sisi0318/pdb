@@ -3,6 +3,7 @@ name = "pdb"
 version = "0.1.0"
 edition = "2021"
 description = "PC Window Controller with ADB-like interface"
+license = "MIT"
 
 [dependencies]
 # Windows API bindings
